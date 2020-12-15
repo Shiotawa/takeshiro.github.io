@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About me.
 
-You can use the [editor on GitHub](https://github.com/Takeshiro04/takeshiro.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Takeshiro. And it's not my real name, it would suck if I exposed my real name.
+I'm a 16 y.o that likes to watch Anime and also loves Android.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
